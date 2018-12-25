@@ -1,0 +1,10 @@
+﻿  Bulls and Cows.cpp
+c:\users\nikita\documents\visual studio 2017\projects\bulls and cows\bulls and cows\bulls and cows.cpp(67): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\nikita\documents\visual studio 2017\projects\bulls and cows\bulls and cows\bulls and cows.cpp(538): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\nikita\documents\visual studio 2017\projects\bulls and cows\bulls and cows\bulls and cows.cpp(540): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\nikita\documents\visual studio 2017\projects\bulls and cows\bulls and cows\bulls and cows.cpp(545): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\nikita\documents\visual studio 2017\projects\bulls and cows\bulls and cows\bulls and cows.cpp(547): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\nikita\documents\visual studio 2017\projects\bulls and cows\bulls and cows\bulls and cows.cpp(813): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\time.h(505): note:  см. объявление "localtime"
+  Bulls and Cows.vcxproj -> C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Bulls and Cows\Debug\Bulls and Cows.exe
+  Bulls and Cows.vcxproj -> C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Bulls and Cows\Debug\Bulls and Cows.pdb (Partial PDB)
